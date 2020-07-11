@@ -5,5 +5,9 @@
   "main": "index.js",
   "author": "tara",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
 }
