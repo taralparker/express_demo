@@ -1,0 +1,16 @@
+{
+  "envs": {
+    "production": [
+      {
+        "name": "expressdemo",
+        "uri": false,
+        "image": "tara/express_demo",
+        "entrypoint": "index.js",
+        "ports": [
+          3000
+        ],
+        "language": "nodejs"
+      }
+    ]
+  }
+}
